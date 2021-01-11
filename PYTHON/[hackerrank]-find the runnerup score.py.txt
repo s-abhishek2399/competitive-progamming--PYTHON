@@ -1,0 +1,5 @@
+n=int(input())
+x=list(map(int,input().strip().split()))
+z=list( dict.fromkeys(x) )
+z.sort()
+print(z[-2])
