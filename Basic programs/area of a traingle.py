@@ -7,7 +7,7 @@ c = float(input('Enter third side:'))
 semi_perimeter= (a+b+c)/2
 
 
-#formula is20
+#formula is
 
 
 area=((semi_perimeter*(semi_perimeter-a)*(semi_perimeter-b)*(semi_perimeter-c))) **0.5
